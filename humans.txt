@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Michael Wall	michaeldavidwall@gmail.com	@miked
 
 # THANKS
 
